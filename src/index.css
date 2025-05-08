@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(126, 126, 223);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+    color:rgb(57, 1, 1);
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
